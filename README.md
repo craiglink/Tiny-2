@@ -1,10 +1,8 @@
 # Tiny-2
 A [Voron2 2.4R2](https://vorondesign.com/voron2.4) scaled down to 150mm x 150mm x 130mm build volume and optional weight-saving XY gantry mods. **This is currently a work in process.**
-
 <p align="center">
   <img src="images/Tiny-2-render.png">
 </p>
-
 Original Source: https://github.com/VoronDesign/Voron-2
 
 License: [License](./LICENSE.txt)
